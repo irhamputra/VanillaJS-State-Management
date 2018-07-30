@@ -14,5 +14,4 @@ export default class Component {
             this.element = props.element
         }
     }
-
 }

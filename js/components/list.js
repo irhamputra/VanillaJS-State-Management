@@ -1,7 +1,7 @@
 import Component from '../lib/components';
 import store from '../store/index';
 
-export default class list extends Component{
+export default class List extends Component{
     constructor() {
         super({
             store,
